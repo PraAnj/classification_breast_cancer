@@ -12,11 +12,12 @@ This repo contains sample usage of widely used classification models. Famous Win
 Plan to implement following models/ boosting methods in the future,
 
 1. Support Vector classifier (svm.SVC)
-2. AdaBoost
-3. Gradient Boosting
-4. Extra Trees
-5. Multiple layer perceprton (neural network)
-6. Linear Discriminant Analysis
+2. Extra Trees
+3. Multiple layer perceprton (neural network)
+4. Linear Discriminant Analysis
+5. AdaBoost
+6. Gradient Boosting
+7. XGBoost/ CatBoost/ LightGBM
 
 Referece:
 1. http://mlr.cs.umass.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original).
