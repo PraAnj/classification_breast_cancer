@@ -20,4 +20,6 @@ Plan to implement following models/ boosting methods in the future,
 7. XGBoost/ CatBoost/ LightGBM
 
 Referece:
-1. http://mlr.cs.umass.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original).
+1. http://mlr.cs.umass.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original)
+2. https://www.scikit-yb.org/en/latest/api/classifier/classification_report.html
+3. http://www.scikit-yb.org/en/latest/api/classifier/confusion_matrix.html
