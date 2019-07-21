@@ -9,5 +9,14 @@ This repo contains sample usage of widely used classification models. Famous Win
 5. KNN (Nearest neighbour)
 6. LVQ classifier (https://pypi.org/project/sklearn-lvq/)
 
+Plan to implement following models/ boosting methods in the future,
+
+1. Support Vector classifier (svm.SVC)
+2. AdaBoost
+3. Gradient Boosting
+4. Extra Trees
+5. Multiple layer perceprton (neural network)
+6. Linear Discriminant Analysis
+
 Referece:
 1. http://mlr.cs.umass.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original).
