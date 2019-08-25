@@ -24,6 +24,7 @@ Future additions to the repo,
 
 1. ROC curve added for each model to elaborate on the results.
 2. Add hyper parameter tuning for all models. Currently parameter tuning is incorporated only for few.
+3. Improve read me page the summary of resuls from model comparison. (Graphs are available in results folder)
 
 Referece:
 1. http://mlr.cs.umass.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original)
