@@ -8,17 +8,17 @@ This repo contains sample usage of widely used classification models. Famous Win
 4. Random forest
 5. KNN (Nearest neighbour)
 6. LVQ classifier (https://pypi.org/project/sklearn-lvq/)
+7. Support Vector classifier (svm.SVC)
 
 Plan to implement following models/ boosting methods in the future,
 
 1. Decision tree (ID3, CART)
-2. Support Vector classifier (svm.SVC)
-3. Extra Trees
-4. Multiple layer perceprton (neural network)
-5. Linear Discriminant Analysis
-6. AdaBoost
-7. Gradient Boosting
-8. XGBoost/ CatBoost/ LightGBM
+2. Extra Trees
+3. Multiple layer perceprton (neural network)
+4. Linear Discriminant Analysis
+5. AdaBoost
+6. Gradient Boosting
+7. XGBoost/ CatBoost/ LightGBM
 
 Future additions to the repo,
 
